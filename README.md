@@ -7,10 +7,10 @@
 - ⚡ Fun fact: I have been to 16 countries and can speak 6 languages!
 
 - 📫 How to reach me:
-- <a href="https://www.instagram.com/l.serrato/"><img src="https://img.shields.io/badge/instagram%20@l.serrato-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/lvdovvicvs.rex/"><img src="https://img.shields.io/badge/facebook%20@lvdovvicvs.rex-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://www.instagram.com/l.serrato/"><img src="https://img.shields.io/badge/instagram%20-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.facebook.com/lvdovvicvs.rex/"><img src="https://img.shields.io/badge/facebook%20-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/luisserrato007/"><img height="28px" src="https://img.shields.io/badge/linkedin-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://wa.me/5532999790213"><img src="https://img.shields.io/badge/whatsapp%20-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+- <a href="https://wa.me/5532999790213"><img src="https://img.shields.io/badge/whatsapp%20-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
