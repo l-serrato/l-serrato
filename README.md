@@ -26,6 +26,7 @@
 ![jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=8E2DE2)
 ![docker](https://img.shields.io/badge/-docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
 ![cypress](https://img.shields.io/badge/-cypress-grey?style=for-the-badge&logo=cypress&logoColor=white&labelColor=8E2DE2)
+![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 
 <img src="https://github-readme-stats.vercel.app/api?username=l-serrato&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
