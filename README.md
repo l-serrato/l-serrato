@@ -1,7 +1,7 @@
 
 # Hello! I'm Luis Serrato, Fullstack Web Developer
 
-- 🔭 I’m currently working on NodeJs
+- 🔭 I’m currently working on TypeScript
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
 - ⚡ Fun fact: I have been to 16 countries and can speak 6 languages!
@@ -27,6 +27,7 @@
 ![docker](https://img.shields.io/badge/-docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
 ![cypress](https://img.shields.io/badge/-cypress-grey?style=for-the-badge&logo=cypress&logoColor=white&labelColor=8E2DE2)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
+![nodejs](https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=8E2DE2)
 
 <img src="https://github-readme-stats.vercel.app/api?username=l-serrato&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
