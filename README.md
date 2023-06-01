@@ -2,8 +2,7 @@
 # Hello! I'm Luis Serrato, Fullstack Web Developer
 
 - 🔭 I’m currently working on TypeScript
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
+- 💬 Ask me anything about Frontend or Backend
 - ⚡ Fun fact: I have been to 16 countries and can speak 6 languages!
 
 - 📫 How to reach me:
