@@ -1,7 +1,7 @@
 
 # Hello! I'm Luis Serrato, Fullstack Web Developer
 
-- 🔭 I’m currently working on TypeScript
+- 🔭 I’m currently working on Python
 - 💬 Ask me anything about Frontend or Backend
 - ⚡ Fun fact: I have been to 16 countries and can speak 6 languages!
 
@@ -28,8 +28,7 @@
 ![cypress](https://img.shields.io/badge/-cypress-grey?style=for-the-badge&logo=cypress&logoColor=white&labelColor=8E2DE2)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 ![node.js](https://img.shields.io/badge/-node.js-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-
-<img src="https://github-readme-stats.vercel.app/api?username=l-serrato&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-serrato&theme=radical&title_color=8E2DE2&text_color=fff)
 
