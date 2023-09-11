@@ -1,7 +1,7 @@
 
 # Hello! I'm Luis Serrato, Fullstack Web Developer
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Java
 - 💬 Ask me anything about Frontend or Backend
 - ⚡ Fun fact: I have been to 16 countries and can speak 6 languages!
 
@@ -29,6 +29,8 @@
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 ![node.js](https://img.shields.io/badge/-node.js-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
+![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-serrato&theme=radical&title_color=8E2DE2&text_color=fff)
 
